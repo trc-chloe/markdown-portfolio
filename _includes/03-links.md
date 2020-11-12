@@ -1,1 +1,1 @@
-[slideshow]https://trc-chloe.github.io/github-slideshow/#/1
+[slideshow](https://trc-chloe.github.io/github-slideshow/#/1)
